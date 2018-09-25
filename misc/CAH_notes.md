@@ -7,5 +7,5 @@
 - Created branch `Hamm_dev`
 - Sent code to <kbd>Code/</kbd>
 - Sent data to <kbd>Data/</kdb>
-- Create a `conda` environment in `python2` and saved to <kbd>misc/</kbd>
-- Created a `jupyter notebook` for the `python` scripts
+- Create a `conda` environment called `py2_ML` and saved to <kbd>misc/</kbd>
+- Created a `jupyter notebook` for the `T-LSTM` script using a kernal based on the `py2_ML` environment

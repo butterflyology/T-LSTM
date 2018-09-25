@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+*.pyc
+Clustering_Data_1D.mat
+Split0/
