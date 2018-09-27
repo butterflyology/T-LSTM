@@ -11,3 +11,6 @@
 - Created a `jupyter notebook` for the `T-LSTM` script using a kernal based on the `py2_ML` environment
 - Created branch `dev` from `master`. Merged `Hamm_dev` into `dev` and deleted `Hamm_dev`
 - Created branch `T-LSTM-reg` to experiment with changing the softmax layer to a regression. Created `T-LSTM-reg.ipynb`.
+
+2018-09-26:
+- Manually manipulating the `tensorflow` code
