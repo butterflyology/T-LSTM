@@ -12,4 +12,3 @@ An example data format is given where data is stored as a list containing 3 dime
 
 # Reference
 Inci M. Baytas, Cao Xiao, Xi Zhang, Fei Wang, Anil K. Jain, Jiayu Zhou, "Patient Subtyping via Time-Aware LSTM Networks", KDD, 2017.
-
