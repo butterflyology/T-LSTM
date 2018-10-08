@@ -7,6 +7,7 @@ To execute bash script:
 1. `python code/main.py 1 "data/Split0" 1e-3 50 1.0 128 64 'output/final_model'`
 1. `python code/main.py 0 "data/Split0" 128 64 'output/final_model'`
 
+Modified the `main.py` script into `main_2.py` to refer to `T_LSTM_reg` and the `T_LSTM_reg.py` script. It works using the same code as above substituting `main_2.py`.
 
 **Things done**
 

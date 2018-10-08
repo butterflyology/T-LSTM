@@ -23,7 +23,7 @@ import math
 import cPickle
 
 
-from TLSTM import TLSTM
+from T_LSTM_reg import TLSTM
 
 def load_pkl(path):
     with open(path) as f:
